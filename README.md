@@ -84,7 +84,8 @@ The application converts AI-generated text into a structured presentation format
 
 ## Contributing
 
-23f2001336
-rensi6padmani@gmail.com
-krishahpatel
-Utsimul
+* Poorvanshi1375
+* 23f2001336
+* rensi6padmani@gmail.com
+* krishahpatel
+* Utsimul
